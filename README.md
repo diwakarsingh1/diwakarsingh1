@@ -3,6 +3,7 @@
 
 # 💫 About Me:
 👨‍💻 Currently working on **Scalable Web App Deployment on AWS with DevOps**.<br>🌱 I’m currently learning **DevOps & AWS Cloud**.<br>💬 Ask me about **Linux, Ansible, Jenkins, Docker, K8s, Terraform**.<br>📫 How to reach me **diwakarsi111@gmail.com**.<br>⚡ Fun fact **I think I Love Automation**.
+<img align="right" width=450 margin="10px" src ="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoLnF-XP3ukT4kJm-qI54u3RqORHi5XimQKLgfi1mZyRFWVxvA1edm0Vl1g0S-gXZEzQB1pVFYzgbEcIB15wt1YNTeu-bkITTs10IMf8tWPylY_rbBquGZev7TLBjxG6xYCzxOwVT5EvqNMe0oNCXQwIxDrwvPFnePLLsGk5rgLn3ctZVj13IiZpnJ/s1200/5927911.gif" />
 
 
 ## 🌐 Socials:
