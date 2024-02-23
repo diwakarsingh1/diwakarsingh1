@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm DIWAKAR SINGH</h1>
-<h3 align="center" color=red>A DevOps Enthusiast </h3>
+<h3 align="center" color=red>A DevOps & Cloud Enthusiast </h3>
 
 <img align="right" width=450 margin="10px" src ="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoLnF-XP3ukT4kJm-qI54u3RqORHi5XimQKLgfi1mZyRFWVxvA1edm0Vl1g0S-gXZEzQB1pVFYzgbEcIB15wt1YNTeu-bkITTs10IMf8tWPylY_rbBquGZev7TLBjxG6xYCzxOwVT5EvqNMe0oNCXQwIxDrwvPFnePLLsGk5rgLn3ctZVj13IiZpnJ/s1200/5927911.gif" />
 
@@ -15,8 +15,8 @@
 - 🌱 I’m currently learning **GoLang**, **Typescript**, doing **Open Source** 
 - 💬 Ask me about **JavaScript, React js , Next js , Web Development, Dapp**
 - 👨‍💻 My portfolio is available at https://diwakar-portfolio.vercel.app/
-- 📫 How to reach me **didk9675@gmail.com** 
-- ⚡Fun fact **love Error**
+- 📫 How to reach me **diwakarsi111@gmail.com** 
+- ⚡Fun fact **love Errors**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +25,7 @@
     <a href="mailto:diwakarsi111@gmail.com" target="blank"><img align="center"
             src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Diwakar#6919" height="30"
             width="40" /></a>
-    <a href="https://t.me/didk9675" target="blank"><img align="center"
+    <a href="https://t.me/D_sin9h" target="blank"><img align="center"
             src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png" alt="Diwakar#6919" height="40"
             width="40" /></a>
 
