@@ -1,83 +1,24 @@
+# 💫 About Me:
+👨‍💻 Currently working on **Scalable Web App Deployment on AWS with DevOps**.<br>🌱 I’m currently learning **DevOps & AWS Cloud**.<br>💬 Ask me about **Linux, Ansible, Jenkins, Docker, K8s, Terraform**.<br>📫 How to reach me **diwakarsi111@gmail.com**.<br>⚡ Fun fact **I think I Love Automation**.
 
 
-<h1 align="center">Hi 👋, I'm DIWAKAR SINGH</h1>
-<h3 align="center" color=red>A DevOps & Cloud Enthusiast </h3>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diwakar.prajapati11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-diwakar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@diwakarsi111) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Diwakar96891277) 
 
-<img align="right" width=450 margin="10px" src ="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoLnF-XP3ukT4kJm-qI54u3RqORHi5XimQKLgfi1mZyRFWVxvA1edm0Vl1g0S-gXZEzQB1pVFYzgbEcIB15wt1YNTeu-bkITTs10IMf8tWPylY_rbBquGZev7TLBjxG6xYCzxOwVT5EvqNMe0oNCXQwIxDrwvPFnePLLsGk5rgLn3ctZVj13IiZpnJ/s1200/5927911.gif" />
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=plastic&logo=grafana&logoColor=white&color=%23F46800) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=plastic&logo=prometheus&logoColor=white&color=%23E6522C) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=diwakarsingh1&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=diwakarsingh1&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarsingh1&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=diwakarsingh1&label=Profile%20views&color=0e75b6&style=flat"
-        alt="diwakarsingh1" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=diwakarsingh1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
+---
+[![](https://visitcount.itsvg.in/api?id=diwakarsingh1&icon=0&color=9)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning **GoLang**, **Typescript**, doing **Open Source** 
-- 💬 Ask me about **JavaScript, React js , Next js , Web Development, Dapp**
-- 👨‍💻 My portfolio is available at https://diwakar-portfolio.vercel.app/
-- 📫 How to reach me **diwakarsi111@gmail.com** 
-- ⚡Fun fact **love Errors**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/s-diwakar/" target="blank"><img align="center"
-            src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" /></a>
-    <a href="mailto:diwakarsi111@gmail.com" target="blank"><img align="center"
-            src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Diwakar#6919" height="30"
-            width="40" /></a>
-    <a href="https://t.me/D_sin9h" target="blank"><img align="center"
-            src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png" alt="Diwakar#6919" height="40"
-            width="40" /></a>
-
-</p>
-
-<h3 align="left">Blogs:</h3>
-<p align="left">
-     <a href="https://dev.to/diwakarkashyap" target="blank"><img align="center"
-            src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="@diwakar_766" height="40"
-            width="40" /></a>
-    <a href="https://diwakarkashyap.hashnode.dev/" target="blank"><img align="center"
-            src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" height="40" width="40" /></a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-
-
-
-<div>
-    <img margin="20" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white"/>
-
-</div>
-    
-</p>
-
-<p align="center"  >
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=diwakarkashyap&theme=matrix&margin-h=15&column=4&margin-w=10" alt="diwakarkashyap" /></a>
-</p>
-
-[![An image of @diwakarkashyap's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/diwakarkashyap)](https://holopin.io/@diwakarkashyap)
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=diwakarkashyap&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarkashyap&theme=blue-green" alt="pratikgarai" /></td>
-   </tr>
-</table>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
