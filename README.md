@@ -1,8 +1,8 @@
 
 
-<h1 align="center">Hi 👋, I'm DIWAKAR Singh</h1>
-<h3 align="center" color="red">A DevOps Enthusiast</h3>
-
+<h1 align="center">Hi 👋, I'm DIWAKAR SINGH</h1>
+<h3 style="align:center;color:red">A DevOps Enthusiast</h3>
+style="color:blue;
 
 <img align="right" width=450 margin="10px" src ="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoLnF-XP3ukT4kJm-qI54u3RqORHi5XimQKLgfi1mZyRFWVxvA1edm0Vl1g0S-gXZEzQB1pVFYzgbEcIB15wt1YNTeu-bkITTs10IMf8tWPylY_rbBquGZev7TLBjxG6xYCzxOwVT5EvqNMe0oNCXQwIxDrwvPFnePLLsGk5rgLn3ctZVj13IiZpnJ/s1200/5927911.gif" />
 
