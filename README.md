@@ -20,12 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/@diwakar_766" target="blank"><img align="center"
-            src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" alt="@diwakar_766" height="40"
-            width="40" /></a>
-    <a href="https://linkedin.com/in/diwakar-kashyap-317a5223b/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/s-diwakar/" target="blank"><img align="center"
             src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" /></a>
-    <a href="mailto:diwakarkashyapdev@gmail.com" target="blank"><img align="center"
+    <a href="mailto:diwakarsi111@gmail.com" target="blank"><img align="center"
             src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Diwakar#6919" height="30"
             width="40" /></a>
     <a href="https://t.me/didk9675" target="blank"><img align="center"
